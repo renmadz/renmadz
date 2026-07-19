@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Darren Björn Maddara — Player One // @renmadz" width="100%"/>
+  <img src="assets/icons/banner.svg" alt="Darren Björn Maddara — Player One // @renmadz" width="100%"/>
 </div>
 
 ## <img src="assets/icons/play.svg" width="22" align="top"/> press start
