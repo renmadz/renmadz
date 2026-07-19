@@ -1,152 +1,48 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     DARREN BJÖRN MADDARA // renmadz
-     Theme: Sekiro — ink black, vermillion red, gold
-════════════════════════════════════════════════════════════════ -->
-
-<!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
-
-# DARREN BJÖRN MADDARA
-
-**「 renmadz 」 ・ 一意専心**
-
-  <a href="https://github.com/renmadz">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=22&duration=2800&pause=900&color=C9403B&center=true&vCenter=true&width=700&lines=%E4%BF%AE%E8%A1%8C+%E2%80%A2+THE+TRAINING+NEVER+ENDS;ROLE+%E2%80%A2+COMPUTER+SCIENCE+STUDENT;PATH+%E2%80%A2+SOFTWARE+ENGINEERING;SIDE+PATH+%E2%80%A2+GAME+DEVELOPMENT;CREED+%E2%80%A2+LEARN+BY+BUILDING" alt="Typing animation" />
-  </a>
-
+  <img src="assets/banner.svg" alt="Darren Björn Maddara — Player One // @renmadz" width="100%"/>
 </div>
 
-<br/>
+## <img src="assets/icons/play.svg" width="22" align="top"/> press start
 
-<!-- ═══════════ BANNER BADGES ═══════════ -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=renmadz&style=for-the-badge&color=6e1410&label=TRAVELERS+PASSED" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/PATH-SOFTWARE_ENGINEERING-c9403b?style=for-the-badge&labelColor=0d0908" alt="Path"/>
-  <img src="https://img.shields.io/badge/HOMELAND-PHILIPPINES-d4a94e?style=for-the-badge&labelColor=0d0908" alt="Homeland"/>
-</div>
+Hey, I'm **Darren** — a 3rd-year BS Computer Science student who treats side projects like side quests. Currently speccing into **web apps** and **Windows apps**.
 
-<br/>
+- <img src="assets/icons/levelup.svg" width="16" align="top"/> Year 3 of the Computer Science campaign — no skips, no cheat codes
+- <img src="assets/icons/code.svg" width="16" align="top"/> Building for the browser and the desktop
+- <img src="assets/icons/film.svg" width="16" align="top"/> Off-duty: logging movies and games (yes, I built trackers for both)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0908,50:c9403b,100:0d0908&height=2" width="100%"/>
-</div>
+## <img src="assets/icons/grid.svg" width="22" align="top"/> loadout
 
-<!-- ═══════════ 【一】 PROFILE ═══════════ -->
-## 【一】PLAYER PROFILE
+![Python](https://img.shields.io/badge/Python-0b0f14?style=for-the-badge&logo=python&logoColor=35e0a1)
+![C](https://img.shields.io/badge/C-0b0f14?style=for-the-badge&logo=c&logoColor=35e0a1)
+![C#](https://img.shields.io/badge/C%23-0b0f14?style=for-the-badge&logo=dotnet&logoColor=35e0a1)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0f14?style=for-the-badge&logo=typescript&logoColor=35e0a1)
+![Node.js](https://img.shields.io/badge/Node.js-0b0f14?style=for-the-badge&logo=nodedotjs&logoColor=35e0a1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0f14?style=for-the-badge&logo=postgresql&logoColor=35e0a1)
+![Docker](https://img.shields.io/badge/Docker-0b0f14?style=for-the-badge&logo=docker&logoColor=35e0a1)
+![Git](https://img.shields.io/badge/Git-0b0f14?style=for-the-badge&logo=git&logoColor=35e0a1)
+![GitHub](https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=35e0a1)
 
-<div align="center">
+## <img src="assets/icons/flag.svg" width="22" align="top"/> quest log
 
-I'm a **Computer Science student** walking the path of **software engineering**,
-with **game development** as the side path I always wander down.
-I believe true skill is forged through *building* —
-so I train through hands-on projects, one commit at a time.
+| quest | status | notes |
+|---|---|---|
+| **[after-credits](https://github.com/renmadz/after-credits)** | <img src="assets/icons/check.svg" width="15" align="top"/> main quest | Movie & TV tracker — watch status, ratings, rewatch history, TMDB integration. React · Node.js · PostgreSQL · Prisma |
+| **[save-point](https://github.com/renmadz/save-point)** | <img src="assets/icons/wip.svg" width="15" align="top"/> side quest | Video game tracker. Work in progress — save early, save often |
 
-<br/>
-
-`修行` Leveling up through **practical, project-based learning**
-<br/>
-`剣技` Writing **reliable, efficient, and maintainable** software
-<br/>
-`忍義手` Exploring the world of **game development**
-<br/>
-`共闘` Ready to **collaborate** and contribute meaningfully to a team
-<br/>
-`礎` Building a strong foundation today for the systems I'll engineer tomorrow
-
-</div>
-
-```python
-class Shinobi:
-    """迷えば敗れる — Hesitation is defeat."""
-
-    def __init__(self):
-        self.id = "renmadz"
-        self.role = "CS Student"
-        self.path = "Software Engineering"
-        self.side_path = "Game Development"
-
-    def resolve(self):
-        return "Train. Build. Repeat."
-```
+## <img src="assets/icons/bars.svg" width="22" align="top"/> player stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0908,50:c9403b,100:0d0908&height=2" width="100%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=renmadz&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=35e0a1&icon_color=b785ff&text_color=c9d1d9&ring_color=35e0a1"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renmadz&layout=compact&hide_border=true&bg_color=0b0f14&title_color=35e0a1&text_color=c9d1d9"/>
 </div>
 
-<!-- ═══════════ 【二】 ARSENAL ═══════════ -->
-## 【二】ARSENAL — Tools & Languages
+## <img src="assets/icons/die.svg" width="22" align="top"/> side notes
 
-<div align="center">
+- Named `after-credits` because I never skip the after-credits scene
+- My backlog (games *and* repos) grows faster than I can clear it
+- Firm believer that a tracker app counts as productivity
 
-### 刀 KATANA — Languages
-<img src="https://skillicons.dev/icons?i=python,c,cs,ts&theme=dark" alt="Python, C, C#, TypeScript"/>
+## <img src="assets/icons/mail.svg" width="22" align="top"/> co-op invite
 
-### 忍具 SHINOBI TOOLS — Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,ps&theme=dark" alt="Git, GitHub, Docker, VS Code, Visual Studio, Photoshop"/>
-
-### 相棒 COMPANION
-<img src="https://img.shields.io/badge/CLAUDE_CODE-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0d0908" alt="Claude Code"/>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0908,50:c9403b,100:0d0908&height=2" width="100%"/>
-</div>
-
-<!-- ═══════════ 【三】 TOP 5 GAMES ═══════════ -->
-## 【三】思い出 MEMORIES — Top 5 Games
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-COD%3A_MODERN_WARFARE_3_(2011)-6b7c8c?style=for-the-badge&labelColor=0d0908" alt="Call of Duty: Modern Warfare 3 (2011)"/>
-<img src="https://img.shields.io/badge/02-SEKIRO-c9403b?style=for-the-badge&labelColor=0d0908" alt="Sekiro"/>
-<img src="https://img.shields.io/badge/03-GTA%3A_SAN_ANDREAS-3a7d44?style=for-the-badge&labelColor=0d0908" alt="GTA: San Andreas"/>
-
-<img src="https://img.shields.io/badge/04-RED_DEAD_REDEMPTION_2-b3512f?style=for-the-badge&labelColor=0d0908" alt="Red Dead Redemption 2"/>
-<img src="https://img.shields.io/badge/05-DEATH_STRANDING-57c7ff?style=for-the-badge&labelColor=0d0908" alt="Death Stranding"/>
-
-<br/><br/>
-
-| 巻 | TITLE | LOG ENTRY |
-|:---:|:---|:---|
-| `壱` | Call of Duty: Modern Warfare 3 (2011) | Old-school lobbies. Peak chaos. Peak nostalgia. |
-| `弐` | Sekiro: Shadows Die Twice | Died twice. Then a few hundred more times. Worth it. |
-| `参` | GTA: San Andreas | Followed the damn train. All we had to do. |
-| `肆` | Red Dead Redemption 2 | Rode slow through the heartlands. No regrets, partner. |
-| `伍` | Death Stranding | Rebuilt the network. Delivered everything. Kept on keeping on. |
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0908,50:c9403b,100:0d0908&height=2" width="100%"/>
-</div>
-
-<!-- ═══════════ FINAL WORDS — QUOTE ═══════════ -->
-<br/>
-
-<div align="center">
-  <a href="https://github.com/renmadz">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=700&size=28&duration=3500&pause=1500&color=C9403B&center=true&vCenter=true&width=600&lines=Hesitation+is+defeat.;%E8%BF%B7%E3%81%88%E3%81%B0%E6%95%97%E3%82%8C%E3%82%8B" alt="Hesitation is defeat. — 迷えば敗れる"/>
-  </a>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/—_Sword_Saint_Isshin_Ashina-SEKIRO-c9403b?style=flat-square&labelColor=0d0908" alt="Sword Saint Isshin Ashina, Sekiro"/>
-
-  <br/><br/>
-
-  <sub><i>迷えば敗れる (mayoeba yabureru) — "Hesitation is defeat."</i></sub>
-</div>
-
-<br/>
-
-<!-- ═══════════ FOOTER ═══════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0908,50:c9403b,100:0d0908&height=2" width="100%"/>
-
-  <br/>
-
-  **KEEP ON KEEPING ON**
-
-  <sub>「 renmadz 」</sub>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b785ff?style=for-the-badge)](https://www.linkedin.com/in/darren-bj%C3%B6rn-maddara-9b3888273/)
+[![GitHub](https://img.shields.io/badge/@renmadz-35e0a1?style=for-the-badge)](https://github.com/renmadz)
